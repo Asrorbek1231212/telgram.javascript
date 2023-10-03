@@ -81,4 +81,10 @@
     .text__sozlarnig__divi p span{
         padding-left: 40px;
     }
+    .nav__top{
+        display: none;
+    }
+    .navbar11{
+        display: block;
+    }
 }
