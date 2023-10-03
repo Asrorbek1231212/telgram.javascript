@@ -22,3 +22,57 @@
         display: none;
     }
 }
+@media screen and (max-width: 500px) {
+    .said__bar{
+        width: 600px;
+    }
+    .gulll{
+        width: 600px;
+    }
+}
+@media screen and (max-width: 476px) {
+    .said__bar{
+        width: 700px;
+    }
+    .gulll{
+        width: 700px;
+    }
+    .parraaaa{
+        font-size: 14px;
+    }
+    .opla{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 413px) {
+    .said__bar{
+        width: 700px;
+    }
+    .gulll{
+        width: 700px;
+    }
+    .parraaaa{
+        font-size: 14px;
+    }
+    .opla{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 300px) {
+    .said__bar{
+        width: 700px;
+    }
+    .gulll{
+        width: 100%;
+    }
+    .parraaaa{
+        font-size: 14px;
+    }
+    .opla{
+        font-size: 13px;
+    }
+    .asror1{
+        width: 35px;
+        height: 35px;
+    }
+}
