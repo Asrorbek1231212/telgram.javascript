@@ -58,15 +58,18 @@
         font-size: 13px;
     }
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     .said__bar{
-        width: 700px;
+        width: 450px;
     }
     .gulll{
-        width: 100%;
+        width: 450px;
     }
     .parraaaa{
         font-size: 14px;
+    }
+    .parant{
+        width: 450px;
     }
     .opla{
         font-size: 13px;
