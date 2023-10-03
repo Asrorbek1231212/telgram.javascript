@@ -1,0 +1,24 @@
+@media screen and (max-width: 1234px)  {
+    
+    .nav__top{
+        max-width: 1250px;
+    }
+    .said__bar{
+        width: 1300px;
+        
+    }
+    .box__chat{
+        width: 1300px;
+        height: 515px;
+    }
+    /* .parant{
+        width: 1250px;
+    }
+     */
+
+}
+@media screen and (max-width: 720px) {
+    .box__chat{
+        display: none;
+    }
+}

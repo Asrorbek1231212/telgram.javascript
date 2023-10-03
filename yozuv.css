@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #202020;
+}
+.box111111{
+    width: 600px;
+    height: 500px;
+    background: url("./Снимок\ экрана\ 2023-09-01\ 104311.png") no-repeat center/cover;
+    margin: auto;
+    overflow: auto;
+}
+.ooooo{
+    width: 80px;
+    height: 43px;
+    background: #202020;
+    border-radius: 40px;
+    border: none;
+    transition: .1s;
+    margin-top: 30px;
+}
+.ooooo:active{
+    border: 2px solid #ddd;
+}
+.ooooo:hover{
+    border: 2px solid #ddd;
+}
+.lellet{
+    width: 370px;
+    height: 50px;
+    border-radius: 40px;
+    border: none;
+    background: #202020;
+   
+    padding-left: 20px;
+    color: #fff;
+    margin-left: 80px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    margin-top: 375px;
+}

@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #222;
+}
+.nav__top{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    background: #202020;
+}
+.nav__top img{
+    height: 35px;
+    margin: 1px 10px;
+}
+.nav__top p {
+    padding-top: 10px;
+    color: #ddd;
+}
+.said__bar{
+    max-width: 570px;
+    min-height: 94vh;
+    overflow: scroll;
+    overflow: auto;
+    background: #202020;
+}
+.a__n__href{
+    text-decoration: none;
+}
+.asror__img__clone__telegram{
+    width: 100%;
+    height: 50px;
+}
+.box__chat{
+    width: 800px;
+    height: 90vh;
+    background: url("./Снимок\ экрана\ 2023-09-01\ 104311.png") no-repeat center/cover;
+    border-radius: 10px 0px 0px 0px;
+    overflow: auto;
+}
+header{
+    display: flex;
+}
+/* .asror{
+    width: 100%;
+
+} */
+.asror1{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+   
+}
+.parant{
+    max-width: 500px;
+    min-height: 60px;
+    margin-top: 5px;
+    display: flex;
+    padding-left: 5px;
+   
+}
+.text__sozlarnig__divi{
+    width: 90%;
+    height: 60px;
+ 
+    padding: 10px 4px;
+}
+.parant:hover{
+    background: rgb(28, 28, 28);
+}
+.gulll:hover{
+    background: rgb(28, 28, 28);
+}
+.gulll{
+    width: 100%;
+    background: #202020;
+    border: none;
+}
+.text__sozlarnig__divi .parraaaa{
+    color: #ddd;
+}
+.text__sozlarnig__divi p span{
+    padding-left: 120px;
+    padding-top: 10px;
+    color: blue;
+    color: dodgerblue;
+    font-size: 14px;
+    color: gray;
+}
+.opla{
+    padding-top: 6px;
+    color: dodgerblue;
+}
+.asror11{
+    width: 59px;
+    height: 100%;
+    border-radius: 50%;
+}
+.lola{
+    color: gray;
+}
+
+.box{
+    width: 200px;
+    background: rgb(125, 248, 125);
+    padding: 16px;
+    margin: 10px 50px;
+    border-radius: 10px 10px 10px 0;
+    animation: box .4s forwards;
+    opacity: 0;
+    transform: scale(.6);     
+    
+}
+@keyframes box {
+    to{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+.box span{
+    text-align: right;
+    font-size: 12px;
+    display: block;
+}
+.partner{
+    margin-left: 500px;
+    border-radius: 10px 10px 0px 10px;
+    background: #d5f5fc;
+    margin-top: 0px;
+ 
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    padding-top: 100px;
+}
+
+.wrapper1{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.gulll{
+   transition: .6s;
+   padding: 0px 0px;
+}
+.inp{
+    width: 65%;
+    height: 50px;
+    border-radius: 200px;
+    font-size: 28px;
+    padding-left: 20px;
+    border: none;
+    margin-top: 394px;
+    margin-left: 120px;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    background: darkblue;
+    color: #ddd;
+    border-radius: 20px;
+    border: none;
+}
+.btn:active{
+    background-color: dodgerblue;
+}
+.btn:hover{
+    background-color: blue;
+}
+.asror111{
+    width: 60px;
+    margin-top: -6px;
+}
+.a__href{
+    text-decoration: none;  
+}
+.lellet{
+    width: 420px;
+    height: 50px;
+    border-radius: 40px;
+    border: none;
+    background: #202020;
+   
+    padding-left: 20px;
+    color: #fff;
+    margin-left: 80px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    margin-top: 375px;
+}
+.lellet::placeholder{
+    color: #fff;
+}
+.chatga__salom button{
+    width: 150px;
+    height: 50px;
+    background: #202020;
+    border-radius: 40px;
+    border: none;
+    transition: .1s;
+    margin-top: 30px;
+}
+.chatga__salom button img{
+    width: 30px;
+    height: 30px;
+}
+.chatga__salom button:active{
+    border: 2px solid #ddd;
+}
+.chatga__salom button:hover{
+    border: 2px solid #ddd;
+}
+
+.partner11111112221{
+    margin-left: 450px;
+    background-color: rgb(0, 56, 111);
+    color: #fff;
+    border-radius: 20px 20px 0px 20px;
+    
+}
+.box__chat{
+    
+ 
+    position: relative;
+}
+.asaala{
+    display: none;
+    position: relative;
+    transition: 1.5s;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+   
+    border-radius: 10px 0px 0px 0px;
+    background: #2e2e2f;
+    position: sticky;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    color: #fff;
+}
+.Javascript1{
+    border-radius: 50%;
+    width: 56px;
+    height: 56px;
+    margin-left: 5px;
+}
+.navbar p{
+    width: 250px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.navbar p span{
+    color: gray;
+}
+.icons{
+    font-size: 18px;
+    padding-top: 15px;
+    padding-left: 50%;
+}
+.plast{
+    padding-left: 20px;
+}
+.chatga__salom{
+    position: relative;
+}
+.asaaaaaaalooo{
+    width: 100%;
+}
