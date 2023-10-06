@@ -63,6 +63,16 @@
     .navbar11{
         display: block;
     }
+    .parant{
+        width: 500px;
+        
+    }
+    .gulll{
+        width: 500px;
+    }
+    .said__bar{
+        width: 500px;
+    }
 }
 @media screen and (max-width: 400px) {
     .said__bar{
