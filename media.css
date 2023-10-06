@@ -73,6 +73,9 @@
     .said__bar{
         width: 500px;
     }
+    .text__sozlarnig__divi p span{
+        padding-left: 40px;
+    }
 }
 @media screen and (max-width: 400px) {
     .said__bar{
@@ -94,8 +97,6 @@
         width: 55px;
         height: 55px;
     }
-    .text__sozlarnig__divi p span{
-        padding-left: 40px;
-    }
+   
     
 }
