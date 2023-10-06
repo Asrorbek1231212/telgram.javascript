@@ -281,7 +281,7 @@ header{
 .navbar11{
     width: 380px;
     height: 170px;
- 
+    display: none;
     padding: 10px 15px;
     
     /* background: ; */

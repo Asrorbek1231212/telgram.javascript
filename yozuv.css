@@ -95,3 +95,9 @@ body{
 .buton:active{
     background-color: darkblue;
 }
+.op{
+    width: 100%;
+    height: 50px;
+    border: 1px solid red;
+    margin-top: 120%;
+}
